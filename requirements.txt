@@ -1,4 +1,4 @@
-tabpy
+requests
 pandas
-scikit-learn
-numpy
+pantab
+tableauserverclient
